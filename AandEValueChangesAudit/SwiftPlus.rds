@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>SwiftPlus</Name>
+  <DataSourceID>a1688bf6-9611-4281-b581-56f716cdc269</DataSourceID>
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=192.168.100.172,53312;Initial Catalog=Swiftplus_SystemTest</ConnectString>
+  </ConnectionProperties>
+</RptDataSource>
